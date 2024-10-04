@@ -1,0 +1,47 @@
+.Headiing {
+  font-size: 35px;
+  color: aliceblue;
+  position: relative;
+  left: 210px;
+  top: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.Headiing1 {
+  font-size: 30px;
+  color: aliceblue;
+  position: relative;
+  left: 150px;
+  top: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.inputName {
+  border-radius: 5%;
+  position: relative;
+  left: 100px;
+  bottom: -100px;
+  width: 300px !important;
+
+  background-color: aquamarine;
+}
+
+.submit {
+  background-color: aquamarine !important;
+  border-radius: 10%;
+  position: relative;
+  bottom: -180px;
+  right: 90px;
+
+}
+
+.FormCard {
+  height: 290px;
+  width: 500px;
+  border: 1px solid rgb(255, 252, 252);
+  position: relative;
+  bottom: 220px;
+  left: 200px;
+  box-shadow: 6px 5px 10px 10px rgb(81, 78, 78);
+}
